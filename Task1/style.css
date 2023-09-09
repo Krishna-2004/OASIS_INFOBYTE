@@ -1,0 +1,43 @@
+header{
+    background-color: sandybrown;
+    text-align: center;
+    border-radius: 5%;
+    border-style: dashed;
+}
+
+.Main{
+    background-color: whitesmoke;
+    padding: 5% 10%;
+    border: 10px;
+    border-radius: 20px;
+    border-color: blue;
+    text-align: center;
+    text-decoration: dashed;
+    color: blue;
+    
+}
+
+.green{
+    background-color: green;
+    padding: 5%;
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-style: oblique;
+    border-radius: 5%;
+    border-style: dashed;
+}
+
+footer{
+    text-align: center;
+    position: fixed;
+    size: 100%;
+    border-left: 100%;
+}
+
+.foot{
+    text-align: center;
+    padding:1% ;
+    border-left: 100%;
+
+}
